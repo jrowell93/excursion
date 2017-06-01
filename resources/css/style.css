@@ -15,16 +15,20 @@ a{
 body{
   background-color: black;
   text-align: center;
+  text-align: center;
 }
 h2{
   font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
+  text-align: center;
+  color: white;
 }
 .paragraph{
   font-family: Verdana;
   font-size: 21px;
   color:gray;
+  text-align: center;
 }
 .footer p{
   text-align: right;
